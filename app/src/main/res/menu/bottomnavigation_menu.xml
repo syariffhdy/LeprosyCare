@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/beranda_menu"
+        android:title="@string/beranda"
+        android:icon="@drawable/ic_logo_beranda"/>
+    <item
+        android:id="@+id/edukasi_menu"
+        android:title="@string/edukasi"
+        android:icon="@drawable/ic_logo_edukasi"/>
+    <item
+        android:id="@+id/quiz_menu"
+        android:title="@string/quiz"
+        android:icon="@drawable/ic_logo_quiz"/>
+    <item
+        android:id="@+id/alarm_menu"
+        android:title="@string/alarm"
+        android:icon="@drawable/ic_logo_alarm"/>
+    <item
+        android:id="@+id/form_menu"
+        android:title="Feedback"
+        android:icon="@drawable/ic_logo_form"/>
+</menu>
